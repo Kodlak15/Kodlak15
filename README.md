@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kodlak15
-- 👀 I’m interested in GIS, scripting, data science, data analysis, data visualization, data engineering, and machine learning. 
+- 👀 I’m interested in GIS, automation, data science, data analysis, data visualization, data engineering, and machine learning. 
 - 🌱 I’m currently learning a little bit of everything! 
 - 💞️ I’m looking to collaborate on machine learning and other data oriented projects.  
 - 📫 How to reach me: stanlcod15@gmail.com
