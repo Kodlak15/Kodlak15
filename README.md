@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kodlak15 aka Cody Stanley
-- 👀 I’m interested in GIS, automation, web scraping, data science, data analysis, data visualization, data engineering, and machine learning. 
+- 👋 Hi, I’m @Kodlak15 aka Cody Stanley. 
+- 👀 I’m interested in GIS, automation, web scraping, data science, data analysis, data visualization, data engineering, and machine learning. I am particularly interested in the applications of these fields to the Earth and Atmospheric sciences. 
 - 🌱 I’m currently learning a little bit of everything! I currently spend the vast majority of my time working with Python, but I have also spend time learning R, SQL, and SAS. 
 - 💞️ I’m looking to collaborate on machine learning and other data oriented projects.  
 - 📫 How to reach me: stanlcod15@gmail.com
