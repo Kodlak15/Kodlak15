@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kodlak15 aka Cody Stanley. 
-- 👀 I am interested in data science, machine learning, math/statistics, software engineering/development, and finding ways to automate all sorts of tasks. My academic background is in earth science and GIS. I am very insterested in opportunities to apply my skills to the earth and atmospheric sciences.
-- 🌱 I’m currently learning a little bit of everything! I spend the majority of my time learning working with data science oriented projects in Python, but have been learning C++, JS, and SQL on the side. 
-- 💞️ I’m open to collaborating on all sorts of projects, feel free to reach out at my email below!
+- 👀 I find many things in the world of technology fascinating, but I am particularly interested in deep learning, cybersecurity, and software develolpment. I love building tools that make life and work more efficient. 
+- 🌱 I’m currently focused on learing more about deep learing and cybersecurity. 
+- 💞️ I’m open to collaborate on all sorts of projects, feel free to reach out at my email below! My academic background is in earth science, and I am very interested in finding related projects to work on. 
 - 📫 How to reach me: stanlcod15@gmail.com
 
 <!---
