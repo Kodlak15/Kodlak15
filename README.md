@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kodlak15 aka Cody Stanley. 
-- 👀 I find many things in the world of technology fascinating, but I am particularly interested in deep learning, cybersecurity, and software develolpment. I love building tools that make life and work more efficient. 
-- 🌱 I’m currently focused on learing more about deep learing and cybersecurity. 
-- 💞️ I’m open to collaborate on all sorts of projects, feel free to reach out at my email below! My academic background is in earth science, and I am very interested in finding related projects to work on. 
+- 👋 Hi! I’m @Kodlak15, but my real name is Cody Stanley. 
+- 👀 I am interested in deep learning, cybersecurity, software development, and many other things. I love building tools that make life and work more efficient. 
+- 🌱 I am always looking for ways to become a better problem solver. 
+- 💞️ I’m open to collaborate on all kinds of projects. Feel free to reach out at my email below!  
 - 📫 How to reach me: stanlcod15@gmail.com
 
 <!---
