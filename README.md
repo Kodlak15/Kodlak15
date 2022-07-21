@@ -1,5 +1,5 @@
 # My  skills
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,py,pytorch,&perline=3)](https://skillicons.dev)
 
 # About me
 Hi! My name is Cody Stanley. I am a self-taught developer located near Seattle, WA. I love solving problems and am always working to become a better problem solver. I am passionate about AI, software and web development, statistics, and other related subjects. I find great satisfaction in discovering hidden insights in data, helping others better understand and interpret data, and building tools that make life and work more efficient. 
