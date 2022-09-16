@@ -1,5 +1,5 @@
 # My  skills
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,r,c,cpp,rust,go,css,html,js,ts,linux,mysql,git,vscode,neovim,regex,ableton&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,r,c,cpp,rust,go,css,html,js,ts,react,linux,mysql,git,vscode,neovim,regex,ableton&perline=10)](https://skillicons.dev)
 
 # About me
 Hi! My name is Cody Stanley. I am a self-taught developer and partial owner of a small web services business. I enjoy working on projects that make life and work more efficient, or that help me grow as a programmer and problem solver. The projects found here are largely centered around AI, software development, and linux.   
