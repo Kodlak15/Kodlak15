@@ -2,7 +2,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,r,c,cpp,rust,go,html,css,js,ts,react,linux,mysql,git,vscode,neovim,regex,ableton&perline=10)](https://skillicons.dev)
 
 # About me
-I am a self-taught developer and partial owner of a small web services business. The projects I share on my GitHub are focused on AI, software development, and Linux. 
+I am a self-taught developer and partial owner of a small web services business. I am interested in web/software development, AI, mathematics, and Linux. 
 
 If you need to contact me for any reason, please send me an email: stanlcod15@gmail.com
 <!---
