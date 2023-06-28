@@ -1,6 +1,3 @@
-# My  skills
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,r,c,cpp,rust,go,html,css,js,ts,react,linux,mysql,git,vscode,neovim,regex,ableton&perline=10)](https://skillicons.dev)
-
 # About me
 I am a self-taught developer and co-founder of Cascade Web Services, a small web services business.
 
