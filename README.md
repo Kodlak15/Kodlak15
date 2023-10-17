@@ -1,5 +1,5 @@
 # About me
-I am a self-taught developer and co-founder of Cascade Web Services, a small web services business.
+I am a self-taught developer and co-founder of Cascade Web Services, a small business that provides services in web development, marketing, and search engine optimization.
 
 If you need to contact me for any reason, please send me an email: stanlcod15@protonmail.com
 <!---
